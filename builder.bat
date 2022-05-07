@@ -1,0 +1,1 @@
+gae run -v 3.0.0 -n database-service -h 192.168.50.241:30002/docker/ -f #{n}-#{v}-jar-with-dependencies.jar
